@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'FrameworkPrueba'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of FrameworkPrueba.'
+  s.summary          = 'Este es el FrameworkPrueba, un framework para hacer pruebas'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,24 +17,22 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = "Este es el FrameworkPrueba, un framework para hacer pruebas, donde habra recursos y es un ejemplo de internet"
 
-  s.homepage         = 'https://github.com/lvinaspe/FrameworkPrueba'
+  s.homepage         = 'https://github.com/NachoYo/FrameworkPrueba'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'lvinaspe' => 'luis.ignacio.vinas.petriz@everis.com' }
   s.source           = { :git => 'https://github.com/lvinaspe/FrameworkPrueba.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
+  s.swift_version = '5.0'
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'FrameworkPrueba/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'FrameworkPrueba' => ['FrameworkPrueba/Assets/*.png']
-  # }
+  s.resource_bundles = {
+     'FrameworkPrueba' => ['FrameworkPrueba/Assets/*.png']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
