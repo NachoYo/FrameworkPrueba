@@ -50,11 +50,11 @@
 		286BCDBEF989304DDDF30DA8DF2A67B9 /* Logger.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Logger.swift; path = FrameworkPrueba/Classes/Logger.swift; sourceTree = "<group>"; };
 		2F049CD53DFA1D878006901673F46B34 /* Pods-FrameworkPrueba_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FrameworkPrueba_Tests-umbrella.h"; sourceTree = "<group>"; };
 		3013F96E99E8FB9A14FA8DA97562F22C /* Pods-FrameworkPrueba_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FrameworkPrueba_Example-Info.plist"; sourceTree = "<group>"; };
-		30D420032947AC10C5DA9ADD7332ADB7 /* FrameworkPrueba */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FrameworkPrueba; path = FrameworkPrueba.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		30D420032947AC10C5DA9ADD7332ADB7 /* FrameworkPrueba.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FrameworkPrueba.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3558D9922B59704F76E4EF08CF197DE9 /* llave.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = llave.png; path = FrameworkPrueba/Assets/llave.png; sourceTree = "<group>"; };
 		3D4058E8FF1618ECED43F67F253AC968 /* FrameworkPrueba-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FrameworkPrueba-dummy.m"; sourceTree = "<group>"; };
 		45923BBDF0D4EDC9F92BED919A475EBF /* Pods-FrameworkPrueba_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-FrameworkPrueba_Example"; path = Pods_FrameworkPrueba_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		52194EA2C4330FA6457CBC48DFC52A71 /* FrameworkPrueba.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = FrameworkPrueba.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		52194EA2C4330FA6457CBC48DFC52A71 /* FrameworkPrueba.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = FrameworkPrueba.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5C49A1AE672B8AF93550F7C8714044C1 /* FrameworkPrueba-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FrameworkPrueba-umbrella.h"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7665CFC1072133787D500585CC1AC484 /* FrameworkPrueba.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FrameworkPrueba.debug.xcconfig; sourceTree = "<group>"; };
@@ -68,11 +68,11 @@
 		961A9098441D6A7D33DAB17AAE318919 /* Pods-FrameworkPrueba_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FrameworkPrueba_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		9988F48BA2C7FE8DDA0DCABC7556866F /* Pods-FrameworkPrueba_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-FrameworkPrueba_Example.modulemap"; sourceTree = "<group>"; };
 		9CA33440A3CBFFD60DD71AA637E34033 /* Pods-FrameworkPrueba_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FrameworkPrueba_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B742EF65BD6C2A6AEDE2C25A7E4EBA8D /* FrameworkPrueba-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "FrameworkPrueba-Info.plist"; sourceTree = "<group>"; };
 		C021B2F3B57B561E1D42360C8CBE1950 /* Pods-FrameworkPrueba_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FrameworkPrueba_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		C3A13260457E4B7218A869E05269CBCF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		CA22B72E72E5148A3508A0DE1922BC91 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		C3A13260457E4B7218A869E05269CBCF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		CA22B72E72E5148A3508A0DE1922BC91 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		CB4DD7FA28965CEF8FE04CE92FA32299 /* Pods-FrameworkPrueba_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FrameworkPrueba_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		CC72E9C9119DFAFDD334B24A04D037A8 /* Pods-FrameworkPrueba_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FrameworkPrueba_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		CCB2B420A57C59F796BB1FA2F9036A59 /* Pods-FrameworkPrueba_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FrameworkPrueba_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -134,7 +134,7 @@
 		4036C058B849F2F113AA6B922B92336E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				30D420032947AC10C5DA9ADD7332ADB7 /* FrameworkPrueba */,
+				30D420032947AC10C5DA9ADD7332ADB7 /* FrameworkPrueba.framework */,
 				F07FC2D28D82F0EFAAE52E12A03A5CFC /* FrameworkPrueba-FrameworkPrueba */,
 				45923BBDF0D4EDC9F92BED919A475EBF /* Pods-FrameworkPrueba_Example */,
 				D211F2E3578672F744E454EDE3AEA6BD /* Pods-FrameworkPrueba_Tests */,
@@ -329,7 +329,7 @@
 			);
 			name = FrameworkPrueba;
 			productName = FrameworkPrueba;
-			productReference = 30D420032947AC10C5DA9ADD7332ADB7 /* FrameworkPrueba */;
+			productReference = 30D420032947AC10C5DA9ADD7332ADB7 /* FrameworkPrueba.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		DF18E5C477322A6AEFDEF90116A13F88 /* FrameworkPrueba-FrameworkPrueba */ = {
@@ -633,6 +633,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MARKETING_VERSION = 1.0.3;
 				MODULEMAP_FILE = "Target Support Files/FrameworkPrueba/FrameworkPrueba.modulemap";
 				PRODUCT_MODULE_NAME = FrameworkPrueba;
 				PRODUCT_NAME = FrameworkPrueba;
@@ -664,6 +665,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MARKETING_VERSION = 1.0.3;
 				MODULEMAP_FILE = "Target Support Files/FrameworkPrueba/FrameworkPrueba.modulemap";
 				PRODUCT_MODULE_NAME = FrameworkPrueba;
 				PRODUCT_NAME = FrameworkPrueba;
@@ -765,8 +767,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
