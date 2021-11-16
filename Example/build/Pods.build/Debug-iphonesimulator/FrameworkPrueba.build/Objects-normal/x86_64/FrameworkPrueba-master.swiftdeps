@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "2b5c7d5dac5b456402253794bcaaf54e42576a13e1bf7c28b42ff227eeae4e7b"
+build_start_time: [1637101265, 367964982]
+build_end_time: [1637101268, 682572841]
+inputs:
+  "/Users/lvinaspe/Documents/Ejemplos/FrameworkPrueba2/FrameworkPrueba/FrameworkPrueba/Classes/Logger.swift": [1637084603, 839704990]

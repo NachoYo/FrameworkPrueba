@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/lvinaspe/Documents/Ejemplos/FrameworkPrueba2/FrameworkPrueba/Example/build/Debug-iphonesimulator/FrameworkPrueba/FrameworkPrueba.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/lvinaspe/Documents/Ejemplos/FrameworkPrueba2/FrameworkPrueba/Example/build/Pods.build/Debug-iphonesimulator/FrameworkPrueba.build/unextended-module.modulemap",
+    }]
+  }]
+}

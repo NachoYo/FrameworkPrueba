@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+FrameworkPrueba-FrameworkPrueba in Pods, no dependencies
+FrameworkPrueba in Pods, depends on:
+FrameworkPrueba-FrameworkPrueba in Pods (explicit)
