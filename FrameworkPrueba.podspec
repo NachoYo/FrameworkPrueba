@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FrameworkPrueba'
-  s.version          = '1.0.3'
+  s.version          = '1.0.5'
   s.summary          = 'Este es el FrameworkPrueba, un framework para hacer pruebas'
 
 # This description is used to generate tags and improve search results.
