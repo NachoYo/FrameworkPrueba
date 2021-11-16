@@ -1,0 +1,6 @@
+framework module FrameworkPrueba {
+  umbrella header "FrameworkPrueba-umbrella.h"
+
+  export *
+  module * { export * }
+}

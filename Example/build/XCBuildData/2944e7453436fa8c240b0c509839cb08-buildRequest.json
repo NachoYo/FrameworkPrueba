@@ -1,0 +1,52 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e984df7491e7910e1cfbdfa61f3b7e33c56"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98055c24eb8991aaddc6472d792d4a4526"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98927ded61ff0a749d9b2fbd119006b871"
+    }
+  ],
+  "containerPath" : "/Users/lvinaspe/Documents/Ejemplos/FrameworkPrueba/FrameworkPrueba/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/lvinaspe/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/lvinaspe/Library/Developer/Xcode/DerivedData/Pods-exgmmuhmopyyxzfkvrjjbnrbwwnj/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/lvinaspe/Library/Developer/Xcode/DerivedData/Pods-exgmmuhmopyyxzfkvrjjbnrbwwnj/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

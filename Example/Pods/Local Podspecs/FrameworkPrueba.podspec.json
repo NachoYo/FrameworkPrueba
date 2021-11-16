@@ -1,0 +1,27 @@
+{
+  "name": "FrameworkPrueba",
+  "version": "0.1.0",
+  "summary": "A short description of FrameworkPrueba.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lvinaspe/FrameworkPrueba",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lvinaspe": "luis.ignacio.vinas.petriz@everis.com"
+  },
+  "source": {
+    "git": "https://github.com/lvinaspe/FrameworkPrueba.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FrameworkPrueba/Classes/**/*",
+  "resource_bundles": {
+    "FrameworkPrueba": [
+      "FrameworkPrueba/Assets/*.png"
+    ]
+  }
+}

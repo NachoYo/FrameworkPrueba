@@ -1,0 +1,16 @@
+PODS:
+  - FrameworkPrueba (0.1.0)
+
+DEPENDENCIES:
+  - FrameworkPrueba (from `../`)
+
+EXTERNAL SOURCES:
+  FrameworkPrueba:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FrameworkPrueba: 5c92a8aa9a909756500566bedf06d977d093b42b
+
+PODFILE CHECKSUM: f6615dceba4362e7b860dc7479440ee9aba3892b
+
+COCOAPODS: 1.11.2
